@@ -6,8 +6,7 @@ This project demonstrates how to connect a backend application to a **MySQL data
 
 ---
 
-## 📌 Project Overview
-The primary objective of this project is to move beyond temporary in‑memory states and build a robust **data persistence layer**. By completing this milestone, you’ll learn how to:
+## 📌 Project OverviewThe primary objective of this project is to move beyond temporary in‑memory states and build a robust **data persistence layer**. By completing this milestone, you’ll learn how to:
 
 - Design relational schemas with **primary keys** and **foreign keys**  
 - Integrate backend logic with a permanent database  
